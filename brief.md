@@ -23,5 +23,7 @@ Resource: NIST SP 800-61 Rev. 2 - Computer Security Incident Handling Guide - ht
 ## Data
 
 ## Misconception in My Track
+A common misconception in cybersecurity is that incident response is purely a reactive operational task that begins only when an active cyber attack is detected and ends immediately once malicious software is removed or quarantined. In reality, incident response is a continuous lifecycle where non-reactive phases are vital to defense. Response capability relies heavily on proactive preparation prior to an incident, as well as post-incident review to analyze lessons learned and refine defensive controls for future security events.   
 
 ## Open Question
+How can zero trust architecture principles be integrated into 5G core network slices to continuously verify responder credentials and prevent lateral movement during an active, multi-vector cyber attack?
