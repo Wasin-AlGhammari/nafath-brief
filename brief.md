@@ -13,6 +13,12 @@ Launching a mission-critical 5G service for emergency responders requires cohesi
 ## Networking
 
 ## Cybersecurity
+Preparation: Establishing secure configurations, threat intelligence, and monitoring tools for 5G network elements.   
+Detection and Analysis: Monitoring alerts to verify attack vectors (e.g., DDoS or core network intrusion) and assess service impact.
+Containment, Eradication, and Recovery: Isolating compromised network slices, terminating malicious access, patching vulnerabilities, and restoring safe operations.
+Post-Incident Activity: Conducting lessons-learned analysis to improve long-term incident response readiness.
+
+Resource: NIST SP 800-61 Rev. 2 - Computer Security Incident Handling Guide - https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf
 
 ## Data
 
